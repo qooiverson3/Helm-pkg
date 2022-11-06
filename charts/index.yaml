@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-lab:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-06T11:15:31.187066+08:00"
+    description: A Helm chart for Kubernetes
+    digest: da7ce645b6835bd9dc5aa845acbb8a7465de35685e0003fc17a3c6771f89d0d3
+    name: helm-lab
+    type: application
+    urls:
+    - https://github.com/qooiverson3/Helm-pkg/helm-lab-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-06T11:15:31.186383+08:00"
