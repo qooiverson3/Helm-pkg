@@ -9,6 +9,6 @@ entries:
     name: helm-lab
     type: application
     urls:
-    - https://github.com/qooiverson3/Helm-pkg/helm-lab-0.1.0.tgz
+    - https://github.com/qooiverson3/Helm-pkg/charts/helm-lab-0.1.0.tgz
     version: 0.1.0
 generated: "2022-11-06T11:15:31.186383+08:00"
